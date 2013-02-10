@@ -3,8 +3,8 @@
 		 license="GPL">
     <user name="mashthekeys"/>
     <description>Macro utility to recursively add folders to the classpath list.</description>
-    <tags v="macro"/>
-    <tags v="utility"/>
-    <tags v="classpath"/>
+    <tag v="macro"/>
+    <tag v="utility"/>
+    <tag v="classpath"/>
     <version name="1.0">Tested in Haxe 2.10.</version>
 </project>
