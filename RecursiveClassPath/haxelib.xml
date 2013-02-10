@@ -1,6 +1,6 @@
 <?xml verion='1.0'?>
 <project name="RecursiveClassPath"
-		 url="https://github.com/mashthekeys/haxe-miscellany/RecursiveClassPath/" 
+		 url="https://github.com/mashthekeys/haxe-miscellany/tree/master/RecursiveClassPath" 
 		 license="GPL">
     <user name="mashthekeys"/>
     <description>Macro utility to recursively add folders to the classpath list.</description>
