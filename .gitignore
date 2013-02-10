@@ -1,6 +1,5 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*~
+*.bak
+.DS_Store
+Thumbs.db
+.com.apple.timemachine.supported
